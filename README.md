@@ -59,7 +59,7 @@ QR_Decomposition(a)
 ```
 
 ## Output
-```
+`
 ![output](.//QR.png)
 ```
 
